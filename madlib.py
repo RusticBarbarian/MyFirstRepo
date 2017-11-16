@@ -7,3 +7,5 @@ adj1 = input ()
 
 print ("Write a nationality.")
 nationality = input () 
+
+time.sleep(100)
